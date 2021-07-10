@@ -2,15 +2,21 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
+      "title": "Web Development",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Android development",
       "details": "Lorem ipsum",
       "complete": true
     },
     {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
-      "complete": true
+      "title": "Data Science",
+      "details": "Data Science projects",
+      "complete": false,
+      "id": 3
     }
   ]
 }
